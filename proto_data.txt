@@ -1,0 +1,23 @@
+id: "123"
+last_batch_id: 5
+batches {
+  samples: 232074896.0
+  samples: 232074896.0
+  samples: 232074896.0
+}
+batches {
+  samples: 176873248.0
+  samples: 176873248.0
+  samples: 176873248.0
+}
+batches {
+  samples: 137608448.0
+  samples: 137608448.0
+  samples: 137608448.0
+}
+batches {
+  samples: 196690704.0
+  samples: 196690704.0
+  samples: 196690704.0
+}
+analysis: 253280446.74
